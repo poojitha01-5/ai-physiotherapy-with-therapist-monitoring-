@@ -1,0 +1,21 @@
+Squat Analysis Report - 2026-05-31 02:21:07
+==================================================
+Total Reps Performed: 5
+
+Form Analysis:
+--------------------
+bad_back_round: 75 occurrences (88.2%)
+  - Your back is rounding.
+bad_back_warp: 4 occurrences (4.7%)
+  - Your back is excessively arched
+bad_head: 6 occurrences (7.1%)
+  - HKeep your neck aligned with your spine.
+bad_inner_thigh: 0 occurrences (0.0%)
+  - Keep knees aligned with toes.
+bad_shallow: 0 occurrences (0.0%)
+  - Squat is too shallow.
+bad_toe: 0 occurrences (0.0%)
+  - Keep feet shoulder-width apart.
+good: 0 occurrences (0.0%)
+  - Good form! Keep it up.
+==================================================
